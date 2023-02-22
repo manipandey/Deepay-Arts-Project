@@ -1,0 +1,214 @@
+
+body{
+    background-image: url(../background.jpg);
+    background-size: cover;
+    margin-left: 10px;
+}
+/*this is for div*/
+.container{
+    display:inline-block;
+    width: 80%;
+    margin-left:150px;
+    border: none;
+    background-color:lavender ;
+     box-shadow: 10px 10px 20px 10px;
+    height: 100%;
+    
+}
+.container img{
+    padding-right: 50px;
+    
+}
+/*this is for head*/
+.head{
+    display: inline-block;
+    width: 100%;
+    margin-left: px;
+    border: none;
+    background-color:#dce6f7;
+;
+    
+}
+
+/* this is css for menue*/
+.menue{ display: inline-block;
+    width: 100%;
+    border: none;
+    background-color: #282e38;
+    float: left;
+    color: white;
+    text-decoration: none;
+    
+
+}
+.menue ul li{
+    float: left;
+    margin-left: 10px;
+    list-style: none;
+    border: none;
+}
+.menue ul{
+    margin-left: 25px;
+}
+.menue ul a{
+    text-decoration: none;
+    color: orangered;
+    margin-left: 90px;
+    font-size: 35px;
+}
+.menue ul li a:hover{
+text-decoration:none;
+    color:green;}
+
+/* this is css for body*/
+.body{
+    margin-left: 1px;
+    width: 100%;
+    background-color: #dce6f7;
+    
+    
+  
+    
+}
+.body img{
+   
+    height: 50%;
+    width: 50%;
+    
+    
+} 
+
+/* this is css for footer*/
+.footer{
+     
+    width: 100%;
+    border: none;
+    background-color: #282e38;
+    color: white;
+    text-decoration: none;
+    
+}
+.footer ul li{
+    list-style:  none;
+    
+    margin-left: 90px;
+    float: left;
+   
+
+    
+    
+    
+}
+
+    
+.social{
+    display:inline-block;
+    margin-left:px;
+    list-style: none;
+    position: fixed;
+
+}
+.social ul li{
+    list-style: none;
+    padding-bottom:2px;
+
+}
+. social a:{
+    display: inline-block;
+    position: fixed;
+    text-decoration: none;
+    
+}
+. social{ a:hover
+    display: inline-block;
+    position: fixed;
+    text-decoration: none;
+    width: 50px;
+}
+
+    
+
+.text{
+    font-size: 20px;
+}
+      
+.portrait{
+    padding-left: 210px;
+
+
+}
+.photo{
+    height: 560px;
+    width: 1178px;
+    padding-left: 50px;
+    
+}
+.photo p{
+    font-family: monospace;
+    line-height: normal;
+    text-decoration-color: darkgray;
+}
+
+.photo h1{
+
+    text-align: center;
+    padding-right: 50px;
+    font-size: 250%;
+    font-family: cursive;
+    color: darkorange;
+}
+.dis{
+    text-align: center;
+    font-size: 18px;
+	margin:auto;
+	padding-right:80px;
+}
+.gallery img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    height: 500px;
+    line-height: inherit;
+    margin: 50px;
+}
+.tuto h2{
+    color: orangered;
+    font-size: 28px;
+    font-family: cursive;
+    text-align: left;
+    padding-left: 30px;
+}
+.tuto{
+    width: auto;
+}
+.tuto p{
+    font-size: 18px;
+    font-family: monospace;
+    padding-left: 32px;
+}
+.body h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: forestgreen;
+    text-align: center;
+}
+.video{
+    height: auto;
+    padding-left: 20px;
+    margin: 30px;
+    
+}
+.con{
+    font-family: serif;
+    font-size: 22px;
+text-align: center;                     
+}
+.con h1{
+    font-size: 40px;
+}
+.form{
+    background-color: linen;
+    width: 50%;
+    
+}
